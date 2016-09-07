@@ -2,10 +2,11 @@
 
 ## Setup
 `$ npm install`
+
 `$ react-native run-ios`
 
 ## Guide
-[Medium Article Here](https://medium.com/@jamesmarino)
+[Medium Article Here](https://medium.com/@jamesmarino/getting-started-with-react-native-and-firebase-ab1f396db549)
 
 ## Screen Shots
 
