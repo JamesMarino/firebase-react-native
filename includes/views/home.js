@@ -13,6 +13,7 @@ import {
 import Button from "apsl-react-native-button";
 import FontAwesomeIcon from "react-native-vector-icons/FontAwesome";
 import {Hideo} from "react-native-textinput-effects";
+import * as firebase from "firebase";
 
 import CommonStyle from "../styles/common.css";
 import Database from "../firebase/database";
